@@ -1,4 +1,4 @@
-# GraceRM
+# SpotifyDataAnalysis
 Title: Spotify Data Analysis Using only Excel
 This is my first project on GIT. I am really excited to share with y'all that I analyzed Spotify Dataset using Excel only. 
 To create a README file for the music listening analysis to post on GitHub, follow this structure:
